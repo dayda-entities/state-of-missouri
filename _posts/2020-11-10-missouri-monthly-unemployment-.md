@@ -1,7 +1,7 @@
 ---
-title: Missouri Monthly Unemployment Claims By Race
-created: '2020-11-10T17:23:35.465958'
-modified: '2020-11-10T17:23:35.465968'
+title: Missouri Monthly Unemployment Claims By Sex
+created: '2020-11-10T17:23:31.930632'
+modified: '2020-11-10T17:23:31.930639'
 state: active
 type: dataset
 tags:
@@ -10,9 +10,9 @@ tags:
   - Unemployment
 groups:
   - Local Government
-csv_url: 'https://data.mo.gov/api/views/cq57-7qrb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.mo.gov/api/views/cq57-7qrb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.mo.gov/api/views/4v5t-4kqk/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.mo.gov/api/views/4v5t-4kqk/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Demographic data of Missouri Unemployment claims by race
+Demographic data of Missouri Unemployment claims by sex
