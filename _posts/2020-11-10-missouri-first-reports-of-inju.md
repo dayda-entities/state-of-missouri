@@ -1,7 +1,7 @@
 ---
-title: Missouri First Reports of Injury by Body Part - Neck
-created: '2020-11-10T17:23:44.278047'
-modified: '2020-11-10T17:23:44.278054'
+title: Missouri First Reports of Injury by Body Part - Lower Extremities
+created: '2020-11-10T17:23:39.545841'
+modified: '2020-11-10T17:23:39.545848'
 state: active
 type: dataset
 tags:
@@ -11,9 +11,9 @@ tags:
   - Labor
 groups:
   - Local Government
-csv_url: 'https://data.mo.gov/api/views/v2fi-tjym/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.mo.gov/api/views/v2fi-tjym/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.mo.gov/api/views/kadm-zhzb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.mo.gov/api/views/kadm-zhzb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-First reports of injury filed reporting an injury to the neck.
+First reports of injury filed reporting an injury to a lower extremity.
