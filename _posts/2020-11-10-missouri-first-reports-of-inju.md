@@ -1,7 +1,7 @@
 ---
-title: Missouri First Reports of Injury by Body Part - Lower Extremities
-created: '2020-11-10T17:23:39.545841'
-modified: '2020-11-10T17:23:39.545848'
+title: Missouri First Reports of Injury by Body Part - Miscellaneous
+created: '2020-11-10T17:23:37.066101'
+modified: '2020-11-10T17:23:37.066108'
 state: active
 type: dataset
 tags:
@@ -11,9 +11,9 @@ tags:
   - Labor
 groups:
   - Local Government
-csv_url: 'https://data.mo.gov/api/views/kadm-zhzb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.mo.gov/api/views/kadm-zhzb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.mo.gov/api/views/g5ud-am38/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.mo.gov/api/views/g5ud-am38/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-First reports of injury filed reporting an injury to a lower extremity.
+First reports of injury filed reporting an injury to miscellaneous or multiple body parts.
