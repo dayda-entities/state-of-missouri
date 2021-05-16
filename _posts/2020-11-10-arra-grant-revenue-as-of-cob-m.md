@@ -1,14 +1,14 @@
 ---
-title: 'ARRA Grant Revenue as of COB March 31, 2017'
-created: '2020-11-10T17:23:46.212297'
-modified: '2020-11-10T17:23:46.212308'
+title: 'ARRA Grant Revenue as of COB May 31, 2017'
+created: '2020-11-10T17:23:31.072066'
+modified: '2020-11-10T17:23:31.072077'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.mo.gov/api/views/y6ey-w8yg/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.mo.gov/api/views/y6ey-w8yg/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.mo.gov/api/views/38te-n8nd/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.mo.gov/api/views/38te-n8nd/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
