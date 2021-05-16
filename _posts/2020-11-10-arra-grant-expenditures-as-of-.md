@@ -1,14 +1,14 @@
 ---
-title: 'ARRA Grant Expenditures As Of COB April 30, 2017'
-created: '2020-11-10T17:23:38.450821'
-modified: '2020-11-10T17:23:38.450831'
+title: 'ARRA Grant Expenditures As Of COB June 30, 2016'
+created: '2020-11-10T17:23:40.897508'
+modified: '2020-11-10T17:23:40.897516'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.mo.gov/api/views/hsgk-w24x/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.mo.gov/api/views/hsgk-w24x/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.mo.gov/api/views/mqqt-f7zm/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.mo.gov/api/views/mqqt-f7zm/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
